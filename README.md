@@ -1,5 +1,5 @@
 # Netflix_Stock_Analysis
-Based on the objectives you've shared from Netflix Stock Analysis project, here are potential insights that might emerge after analyzing the data:
+Based on the objectives  from Netflix Stock Analysis project, here are potential insights that might emerge after analyzing the data:
 
 Volume of Stock Traded:
 
